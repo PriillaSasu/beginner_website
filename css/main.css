@@ -1,0 +1,76 @@
+.space{
+    width: 20px;
+    position: fixed;
+    width: 100%;
+}
+
+.firstbox{
+    background-color: indianred;
+    padding: 60px;
+    color: white;
+    text-align: center;
+    font-style: inherit;
+   position: sticky;
+}  
+.firstbox > img{
+    width: 100%;
+}
+.secondbox{
+    background-color: orange;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: 3px;
+}
+.rule{
+    width: 30px;
+}
+
+.thirdclass{
+    /* display: inline-block; */
+    height: 70%;
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.llhr{
+    width: 30px;
+}
+
+.service > div{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    width: 20%;
+}
+
+.images >img{
+    width: 32.55%;
+    height: 50%;
+}
+
+.body >a {
+    text-align: right;
+}
+.nav{
+    text-align: right;
+   margin: 10px;
+}
+
+.diamond{
+    text-align: right;
+}
+.laptop{
+    text-align: left;
+}
+.diamond > date{
+    text-align: right;
+}
+.footer{
+    background-color: burlywood;
+    text-align: center;
+    color: black;
+    padding: 0.5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
